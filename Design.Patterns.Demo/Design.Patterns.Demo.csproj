@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="2.Structural\A.Adapter\" />
+    <Folder Include="2.Structural\B.Bridge\" />
+    <Folder Include="2.Structural\C.Composite\" />
+    <Folder Include="2.Structural\D.Decorator\" />
+    <Folder Include="2.Structural\E.Facade\" />
+    <Folder Include="2.Structural\F.Flyweight\" />
+    <Folder Include="2.Structural\G.Proxy\" />
+    <Folder Include="3.Behavioral\A.ChainOfResponsibility\" />
+    <Folder Include="3.Behavioral\B.Command\" />
+    <Folder Include="3.Behavioral\C.Interpreter\" />
+    <Folder Include="3.Behavioral\D.Iterator\" />
+    <Folder Include="3.Behavioral\E.Mediator\" />
+    <Folder Include="3.Behavioral\F.Memento\" />
+    <Folder Include="3.Behavioral\G.Observer\" />
+    <Folder Include="3.Behavioral\H.State\" />
+    <Folder Include="3.Behavioral\I.Strategy\" />
+    <Folder Include="3.Behavioral\J.TemplateMethod\" />
+    <Folder Include="3.Behavioral\K.Visitor\" />
+  </ItemGroup>
+
+</Project>
