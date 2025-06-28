@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="3.Behavioral\A.ChainOfResponsibility\" />
-    <Folder Include="3.Behavioral\B.Command\" />
     <Folder Include="3.Behavioral\C.Interpreter\" />
     <Folder Include="3.Behavioral\D.Iterator\" />
     <Folder Include="3.Behavioral\E.Mediator\" />

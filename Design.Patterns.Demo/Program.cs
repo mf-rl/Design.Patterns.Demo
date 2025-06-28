@@ -9,6 +9,8 @@ using Design.Patterns.Demo._2.Structural.D.Decorator;
 using Design.Patterns.Demo._2.Structural.E.Facade;
 using Design.Patterns.Demo._2.Structural.F.Flyweight;
 using Design.Patterns.Demo._2.Structural.G.Proxy;
+using Design.Patterns.Demo._3.Behavioral.A.ChainOfResponsibility;
+using Design.Patterns.Demo._3.Behavioral.B.Command;
 
 SingletonExample.Run();
 FactoryMethodExample.Run();
@@ -22,3 +24,6 @@ DecoratorExample.Run();
 FacadeExample.Run();
 FlyweightExample.Run();
 ProxyExample.Run();
+
+ChainOfResponsibilityExample.Run();
+CommandExample.Run();
