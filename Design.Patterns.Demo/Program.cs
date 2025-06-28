@@ -12,6 +12,7 @@ using Design.Patterns.Demo._2.Structural.G.Proxy;
 using Design.Patterns.Demo._3.Behavioral.A.ChainOfResponsibility;
 using Design.Patterns.Demo._3.Behavioral.B.Command;
 using Design.Patterns.Demo._3.Behavioral.C.Interpreter;
+using Design.Patterns.Demo._3.Behavioral.D.Iterator;
 
 SingletonExample.Run();
 FactoryMethodExample.Run();
@@ -29,3 +30,4 @@ ProxyExample.Run();
 ChainOfResponsibilityExample.Run();
 CommandExample.Run();
 InterpreterExample.Run();
+IteratorExample.Run();
