@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="2.Structural\G.Proxy\" />
     <Folder Include="3.Behavioral\A.ChainOfResponsibility\" />
     <Folder Include="3.Behavioral\B.Command\" />
     <Folder Include="3.Behavioral\C.Interpreter\" />

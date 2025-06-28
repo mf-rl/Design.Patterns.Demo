@@ -8,6 +8,7 @@ using Design.Patterns.Demo._2.Structural.B.Bridge;
 using Design.Patterns.Demo._2.Structural.D.Decorator;
 using Design.Patterns.Demo._2.Structural.E.Facade;
 using Design.Patterns.Demo._2.Structural.F.Flyweight;
+using Design.Patterns.Demo._2.Structural.G.Proxy;
 
 SingletonExample.Run();
 FactoryMethodExample.Run();
@@ -20,3 +21,4 @@ BridgeExample.Run();
 DecoratorExample.Run();
 FacadeExample.Run();
 FlyweightExample.Run();
+ProxyExample.Run();
