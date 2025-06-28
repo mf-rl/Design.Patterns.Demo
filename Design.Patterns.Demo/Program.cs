@@ -11,6 +11,7 @@ using Design.Patterns.Demo._2.Structural.F.Flyweight;
 using Design.Patterns.Demo._2.Structural.G.Proxy;
 using Design.Patterns.Demo._3.Behavioral.A.ChainOfResponsibility;
 using Design.Patterns.Demo._3.Behavioral.B.Command;
+using Design.Patterns.Demo._3.Behavioral.C.Interpreter;
 
 SingletonExample.Run();
 FactoryMethodExample.Run();
@@ -27,3 +28,4 @@ ProxyExample.Run();
 
 ChainOfResponsibilityExample.Run();
 CommandExample.Run();
+InterpreterExample.Run();
