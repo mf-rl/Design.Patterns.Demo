@@ -5,6 +5,7 @@ using Design.Patterns.Demo._1.Creational.D.Builder;
 using Design.Patterns.Demo._1.Creational.E.Prototype;
 using Design.Patterns.Demo._2.Structural.A.Adapter;
 using Design.Patterns.Demo._2.Structural.B.Bridge;
+using Design.Patterns.Demo._2.Structural.D.Decorator;
 
 SingletonExample.Run();
 FactoryMethodExample.Run();
@@ -14,3 +15,4 @@ PrototypeExample.Run();
 
 AdapterExample.Run();
 BridgeExample.Run();
+DecoratorExample.Run();
