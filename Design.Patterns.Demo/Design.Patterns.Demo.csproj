@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="2.Structural\B.Bridge\" />
     <Folder Include="2.Structural\C.Composite\" />
     <Folder Include="2.Structural\D.Decorator\" />
     <Folder Include="2.Structural\E.Facade\" />
