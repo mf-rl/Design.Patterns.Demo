@@ -2,8 +2,6 @@
 
 ## Overview
 
-**Pattern Name:** Adapter Pattern
-
 **Definition:** The Adapter pattern is a structural design pattern that allows objects with incompatible interfaces to collaborate. It acts as a bridge between two incompatible interfaces by wrapping an existing class with a new interface.
 
 **Intent:** Convert the interface of a class into another interface that clients expect. The Adapter pattern lets classes work together that couldn't otherwise because of incompatible interfaces.
