@@ -42,6 +42,16 @@ DesignPatternsDemo/
 ```
 ---
 
+## 🗂️ Summary Table
+
+| 📂 Category       | 🔍 Focus               | 💡 Key Idea                                  |
+|-------------------|------------------------|----------------------------------------------|
+| 🛠️ [Creational](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/1.Creational)     | Object creation        | Hide or control object instantiation         |
+| 🏗️ [Structural](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/2.Structural)     | Object composition     | Build flexible and reusable structures       |
+| 🤝 [Behavioral](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/3.Behavioral)     | Object communication   | Manage how objects cooperate and behave      |
+
+---
+
 ## 🚀 Running the Project
 
 1. Open the solution in **Visual Studio**.
