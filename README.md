@@ -2,6 +2,16 @@
 
 This project provides practical examples of all **23 classic design patterns** implemented in C#.
 
+## 🗂️ Summary Table
+
+| 📂 Category       | 🔍 Focus               | 💡 Key Idea                                  |
+|-------------------|------------------------|----------------------------------------------|
+| 🛠️ [Creational](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/1.Creational/README.md)     | Object creation        | Hide or control object instantiation         |
+| 🏗️ [Structural](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/2.Structural/README.md)     | Object composition     | Build flexible and reusable structures       |
+| 🤝 [Behavioral](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/3.Behavioral/README.md)     | Object communication   | Manage how objects cooperate and behave      |
+
+---
+
 ## 📂 Project Structure
 
 The project is organized into three main categories:
@@ -40,16 +50,6 @@ DesignPatternsDemo/
 │ └── K.Visitor
 
 ```
----
-
-## 🗂️ Summary Table
-
-| 📂 Category       | 🔍 Focus               | 💡 Key Idea                                  |
-|-------------------|------------------------|----------------------------------------------|
-| 🛠️ [Creational](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/1.Creational)     | Object creation        | Hide or control object instantiation         |
-| 🏗️ [Structural](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/2.Structural)     | Object composition     | Build flexible and reusable structures       |
-| 🤝 [Behavioral](https://github.com/mf-rl/Design.Patterns.Demo/tree/master/Design.Patterns.Demo/3.Behavioral)     | Object communication   | Manage how objects cooperate and behave      |
-
 ---
 
 ## 🚀 Running the Project
